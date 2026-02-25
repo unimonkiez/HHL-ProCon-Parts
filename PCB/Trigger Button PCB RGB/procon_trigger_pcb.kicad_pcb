@@ -1434,7 +1434,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0807f08e-919d-4dc8-9df2-094cd42fb1eb")
+			(uuid "189e81ec-9580-4a85-a012-4d30b9172bce")
 		)
 		(fp_line
 			(start 3 -1.75)
@@ -1444,7 +1444,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9be252e5-8506-4ba9-a2b0-5b289fbe17e9")
+			(uuid "81eb7036-4de0-41f6-ab5b-21f92c5a26cc")
 		)
 		(fp_line
 			(start 1.5 -0.6)
@@ -1454,7 +1454,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b8bbb599-5488-4437-a963-efb1b7dc4026")
+			(uuid "3ec33719-723a-4602-a44b-d23bd59baa8e")
 		)
 		(fp_line
 			(start 3 0.93)
@@ -1464,7 +1464,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b0f3bc53-13c8-4ab1-9d92-661fda3b0edb")
+			(uuid "87401cd5-4144-4c89-a90a-ef331c7458e0")
 		)
 		(fp_line
 			(start 1.5 0.6)
@@ -1474,7 +1474,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ca610e90-5d07-4dc3-8e00-8414c3cf9cf1")
+			(uuid "10a78d8f-18a6-46fa-bb36-9781dd16bfde")
 		)
 		(fp_line
 			(start -1.5 -0.6)
@@ -1484,7 +1484,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cbff5631-6363-49e1-815a-c759ba32a973")
+			(uuid "3144e396-d886-45bc-8d68-eb5faed91796")
 		)
 		(fp_line
 			(start -3 -0.93)
@@ -1494,7 +1494,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6e680f4a-00ad-4279-8f05-1f39e1e4fc68")
+			(uuid "a1baf5bc-f929-4337-b754-5b584942bfef")
 		)
 		(fp_line
 			(start -1.5 0.6)
@@ -1504,7 +1504,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "574d17fe-6873-46fa-ae29-c437f30fe91b")
+			(uuid "a9c40c2a-1be3-4058-8280-d7c7a876451e")
 		)
 		(fp_line
 			(start -3 1.75)
@@ -1514,7 +1514,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bd3b2963-8c6e-4e47-9dde-1b8854c33ca0")
+			(uuid "61cbf8fb-0159-4cd8-8bbd-e68eba1f83e0")
 		)
 		(fp_line
 			(start -3 1.75)
@@ -1524,7 +1524,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "34a16fd9-5a48-413f-a250-1383db2382bb")
+			(uuid "2680d221-4044-43fa-aa1f-c47d62907d70")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 120)
